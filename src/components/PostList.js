@@ -5,7 +5,7 @@ import styles from '../css/postlist.module.css'
 const PostList = ({posts}) => {
     return (
         <section className={styles.posts}>
-            <h1>wayhe he</h1>
+            <h1>wayne he</h1>
             <h4>personal blog</h4>
             <div className={styles.center}>
                 {
